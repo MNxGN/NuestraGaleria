@@ -94,7 +94,7 @@ header h1 {
     width: 100%;
     aspect-ratio: 1 / 1; /* Mantiene la foto cuadrada */
     object-fit: cover;
-    filter: grayscale(100%); /* Le da el toque blanco y negro de tu ejemplo. Si las quieres a color, borra esta línea */
+    feilter: grayscale(100%); /* Le da el toque blanco y negro de tu ejemplo. Si las quieres a color, borra esta línea */
     border-radius: 2px;
 }
 
